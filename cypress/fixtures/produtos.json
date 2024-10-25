@@ -1,0 +1,22 @@
+[
+
+    {
+        "nomeProduto": "Ingrid Running Jacket", 
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Josie Yoga Jacket", 
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Cassius Sparring Tank", 
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 4
+    }
+    
+    ]
